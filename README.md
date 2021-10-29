@@ -45,4 +45,4 @@ In your Groovy Maven project you should add a dependency similar to the followin
 ```
 
 Note that the version here is an example, you should check the latest version either from the official release or from 
-package you have built locally 
+package you have built locally.
